@@ -1,0 +1,18 @@
+@import "../variables/variables";
+@import "../sass2/mixins";
+
+
+.header-footer{
+    @include header-footer;
+}
+
+ul a{
+    text-decoration: none;
+    color: white;
+    border: solid 3px orange;
+    margin: 6px;
+    padding: 6px;
+    display: flex;
+
+}
+

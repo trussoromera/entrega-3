@@ -1,0 +1,11 @@
+@import "../variables/variables";
+
+@mixin header-footer {
+    padding: 3rem;
+    background-color: black;
+    color: white; 
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
