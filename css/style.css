@@ -5,6 +5,16 @@
 .producto-config {
   text-align: center; }
 
+@media (min-width: 768px) {
+  .grid-padre {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    column-gap: 2rem; } }
+
+@media (min-width: 1024px) {
+  .grid-padre {
+    grid-template-columns: repeat(4, 1fr); } }
+
 .header-footer {
   padding: 3rem;
   background-color: black;
@@ -19,3 +29,10 @@ ul a {
   margin: 6px;
   padding: 6px;
   display: flex; }
+
+.header-footer {
+  padding: 3rem;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-evenly; }

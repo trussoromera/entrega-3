@@ -2,8 +2,8 @@
 
 @mixin header-footer {
     padding: 3rem;
-    background-color: black;
-    color: white; 
+    background-color: $color-head-foot;
+    color: $color-letras; 
     display: flex;
     justify-content: space-evenly;
    

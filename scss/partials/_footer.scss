@@ -1,2 +1,7 @@
 @import "../variables/variables";
 @import "../sass2/mixins";
+
+.header-footer{
+    @include header-footer;
+}
+
