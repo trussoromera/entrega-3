@@ -2,6 +2,36 @@
   margin: 0;
   padding: 0; }
 
+.pago-envio i {
+  font-size: 90px;
+  color: black; }
+
+.pago-envio p {
+  padding-top: 2rem; }
+
+.pago-envio {
+  margin: auto;
+  padding-top: 8rem;
+  height: 22rem;
+  width: 22rem;
+  color: black;
+  text-align: center; }
+
+.pago-envio i {
+  font-size: 90px;
+  color: black; }
+
+.pago-envio p {
+  padding-top: 2rem; }
+
+.pago-envio {
+  margin: auto;
+  padding-top: 8rem;
+  height: 22rem;
+  width: 22rem;
+  color: black;
+  text-align: center; }
+
 .producto-config {
   text-align: center; }
 
@@ -14,6 +44,21 @@
 @media (min-width: 1024px) {
   .grid-padre {
     grid-template-columns: repeat(4, 1fr); } }
+
+.pago-envio i {
+  font-size: 90px;
+  color: black; }
+
+.pago-envio p {
+  padding-top: 2rem; }
+
+.pago-envio {
+  margin: auto;
+  padding-top: 8rem;
+  height: 22rem;
+  width: 22rem;
+  color: black;
+  text-align: center; }
 
 .header-footer {
   padding: 3rem;
@@ -29,6 +74,21 @@ ul a {
   margin: 6px;
   padding: 6px;
   display: flex; }
+
+.pago-envio i {
+  font-size: 90px;
+  color: black; }
+
+.pago-envio p {
+  padding-top: 2rem; }
+
+.pago-envio {
+  margin: auto;
+  padding-top: 8rem;
+  height: 22rem;
+  width: 22rem;
+  color: black;
+  text-align: center; }
 
 .header-footer {
   padding: 3rem;
