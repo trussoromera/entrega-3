@@ -17,6 +17,18 @@
   color: black;
   text-align: center; }
 
+.nosotros-section {
+  margin: 3rem;
+  padding: 2rem;
+  background-color: orange; }
+
+.video-config {
+  margin-top: 2rem;
+  margin-bottom: 1rem; }
+
+.carousel-envios {
+  background-color: burlywood; }
+
 .pago-envio i {
   font-size: 90px;
   color: black; }
@@ -31,6 +43,18 @@
   width: 22rem;
   color: black;
   text-align: center; }
+
+.nosotros-section {
+  margin: 3rem;
+  padding: 2rem;
+  background-color: orange; }
+
+.video-config {
+  margin-top: 2rem;
+  margin-bottom: 1rem; }
+
+.carousel-envios {
+  background-color: burlywood; }
 
 .producto-config {
   text-align: center; }
@@ -59,6 +83,18 @@
   width: 22rem;
   color: black;
   text-align: center; }
+
+.nosotros-section {
+  margin: 3rem;
+  padding: 2rem;
+  background-color: orange; }
+
+.video-config {
+  margin-top: 2rem;
+  margin-bottom: 1rem; }
+
+.carousel-envios {
+  background-color: burlywood; }
 
 .header-footer {
   padding: 3rem;
@@ -89,6 +125,18 @@ ul a {
   width: 22rem;
   color: black;
   text-align: center; }
+
+.nosotros-section {
+  margin: 3rem;
+  padding: 2rem;
+  background-color: orange; }
+
+.video-config {
+  margin-top: 2rem;
+  margin-bottom: 1rem; }
+
+.carousel-envios {
+  background-color: burlywood; }
 
 .header-footer {
   padding: 3rem;
